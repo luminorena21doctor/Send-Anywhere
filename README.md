@@ -210,4 +210,4 @@ Send Anywhere is available as a full free version with all features and updates 
 Start your file-sharing journey with Send Anywhere today! Download now and experience the freedom of unlimited file sharing.
 
 ---
-**Last updated:** 2026-09-18 04:28:19 UTC
+**Last updated:** 2026-09-18 09:26:40 UTC
